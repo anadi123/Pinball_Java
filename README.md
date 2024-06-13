@@ -1,7 +1,7 @@
 # Pinball_Java
 Pinball is a classic arcade game that has been around since the 1930s. It involves the player using flippers to hit a ball around a table aiming to score points by hitting various targets and obstacles.
 
-Code Explanation
+#Code Explanation
 Pinball class extends the JFrame class and implements the ActionListener interface which allows it to handle events.
 The timer object is created to update the game every 10 milliseconds.
 The ballX, ballY, and ballSize variables are used to keep track of the ball’s position and size.
